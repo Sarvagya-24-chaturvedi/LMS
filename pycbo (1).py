@@ -1,7 +1,7 @@
 import mysql.connector as a
 
 # Connect to MySQL
-con = a.connect (host='localhost',user='root',passwd='24032006',database='library')
+con = a.connect (host='localhost',user='root',passwd='*******',database='library')
 
 # Create a cursor object to interact with the database
 c = con.cursor()
@@ -170,7 +170,7 @@ def main():
 # Password protection
 def pswd():
         ps = input('Enter Password : ')
-        if ps == '24032006':
+        if ps == '*******':
                 main()
 
         else:
