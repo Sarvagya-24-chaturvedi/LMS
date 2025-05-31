@@ -94,6 +94,6 @@ You’ll be asked for a password on startup. Make sure it matches the one hardco
 
 ## 👨‍💻 Author
 Sarvagya Chaturvedi
-Sarvagya-24-chaturvedi
+[Sarvagya-24-chaturvedi](https://github.com/Sarvagya-24-chaturvedi)
 
 ---
