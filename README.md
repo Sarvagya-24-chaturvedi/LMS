@@ -84,6 +84,14 @@ You’ll be asked for a password on startup. Make sure it matches the one hardco
 
 ---
 
+### ✅ Optional Files to Include:
+- `library_manager.py` – your main script
+- `.gitignore` – to exclude files like `.pyc`, `.env`, etc.
+- `requirements.txt` – with `mysql-connector-python`
+- `LICENSE` – if you’re applying a license (MIT recommended)
+
+---
+
 ## 👨‍💻 Author
 Sarvagya Chaturvedi
 Sarvagya-24-chaturvedi
